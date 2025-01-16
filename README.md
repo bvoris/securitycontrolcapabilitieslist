@@ -5,13 +5,13 @@ Created By:	Brad Voris
 Version:	1.00
 Source:	https://github.com/bvoris/securitycontrolcapabilitieslist
 
-<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/Breadcrumbssecuritycontrolcapabilitieslist">
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/Breadcrumbssecuritycontrolcapabilitieslist">
-<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/Breadcrumbssecuritycontrolcapabilitieslist/total">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/Breadcrumbssecuritycontrolcapabilitieslist">
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/Breadcrumbssecuritycontrolcapabilitieslist">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/Breadcrumbssecuritycontrolcapabilitieslist">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/Breadcrumbssecuritycontrolcapabilitieslist">
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/securitycontrolcapabilitieslist">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/securitycontrolcapabilitieslist">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/securitycontrolcapabilitieslist/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/securitycontrolcapabilitieslist">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/securitycontrolcapabilitieslist">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/securitycontrolcapabilitieslist">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/securitycontrolcapabilitieslist">
  
 
 	
