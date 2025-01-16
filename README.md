@@ -27,7 +27,7 @@ Contribute:	If you want to contribute to features, modifications or compensation
 What does it look like without downloading it?<BR />
 <IMG SRC="https://github.com/bvoris/securitycontrolcapabilitieslist/blob/main/screenshot01.png?raw=true">
 <BR />
-<IMG SRC="https://github.com/bvoris/securitycontrolcapabilitieslist/blob/main/screenshot0.png?raw=true">
+<IMG SRC="https://github.com/bvoris/securitycontrolcapabilitieslist/blob/main/screenshot02.png?raw=true">
 
 ## Connect with me at
 
