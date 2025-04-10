@@ -14,14 +14,14 @@ Source:	https://github.com/bvoris/securitycontrolcapabilitieslist<BR />
  <BR /><BR />
 
 
-This list was created to help easily define security control capabilities, domains/sub-domains, regulatory complaince alignment and security framework alignment.<BR /><BR />
+This list was created to help easily define security control capabilities, domains/sub-domains, regulatory compliance alignment and security framework alignment.<BR /><BR />
 I worked on a similar project at a previous employer and found it very helpful. I decided to recreate that content with extensively more data which would include:<BR />
 Domain the capabilities belong to<BR />
 Sub domain the capabilities belong to<BR />
 The capabilities (functions or solutions in some cases)<BR />
 A Definition of the capabilities<BR />
 Regulatory Compliance Alignment or Approximation<BR />
-Security Frameowrk Alignment or Approximation<BR />
+Security Framework Alignment or Approximation<BR />
 I belive this is helpful in determining how to secure people, process, technology, and data.<BR /><BR />
 
 <B>This work was creating using several generative AI solutions, with thorough review. This is in a cronic state of update.</B><BR />
